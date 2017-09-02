@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;excelops&apos; to &apos;dataDriven&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumProject&apos;&#x0D;&#x0A;- Original element: &apos;SeleniumProject/src/excelops&apos;&#x0D;&#x0A;- Renamed element: &apos;SeleniumProject/src/dataDriven&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;excelops&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;excelops" name="dataDriven" qualified="false" references="true" stamp="1502414733065" textual="false" version="1.0"/>
+</session>
